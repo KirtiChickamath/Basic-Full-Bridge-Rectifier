@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+D:\Rectifier\Project Outputs for Free Documents\Pick Place\Pick Place for rectifier.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-05-25
+Time:       20:21
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                
+D5         Diode                  TopLayer DIODE_1N914          688.976       137.795       0        ""                         
+D4         Diode                  TopLayer DIODE_1N914          688.976       255.906       0        ""                         
+D3         "3mm red LED"          TopLayer LED_3MM_RED          1240.158      314.961       90       ""                         
+D2         Diode                  TopLayer DIODE_1N914          688.976       374.016       180      ""                         
+D1         Diode                  TopLayer DIODE_1N914          688.976       492.126       180      ""                         
+R1         "10K, 0.25W"           TopLayer RESISTOR_10K,_0.25W  1062.992      314.961       270      ""                         
+J2         "1X2 header, screw"    TopLayer HEADER,_SCREW        2145.669      314.961       270      "header, Screw, PCB mount" 
+J1         "1X2 header, screw"    TopLayer HEADER,_SCREW        216.535       314.961       90       "header, Screw, PCB mount" 
+C1         "Capacitor 1000uF 25V" TopLayer CAPACITOR_1000UF_25V 1614.173      314.961       90       ""                         
